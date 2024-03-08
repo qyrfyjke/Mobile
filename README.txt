@@ -1,0 +1,1 @@
+Ссылка на 1-ую практику: https://github.com/qyrfyjke/lesson1
